@@ -1,0 +1,9 @@
+.comic-item {
+    height: 275px;
+    width: 175px;
+    background-color: #bd1023;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
